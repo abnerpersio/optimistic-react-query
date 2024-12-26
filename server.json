@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "4fff9a2c-0c2d-4c38-9e49-67e6016d2a9c",
+      "name": "Abner Persio",
+      "username": "abnerpersio",
+      "blocked": false
+    },
+    {
+      "id": "4a1dcf61-fd01-4be4-af31-a715a1fd50c4",
+      "name": "Mateus Silva",
+      "username": "maateusilva",
+      "blocked": false
+    },
+    {
+      "id": "ab2e",
+      "name": "abnerzin",
+      "username": "abnerzin",
+      "blocked": false
+    },
+    {
+      "id": "43ee",
+      "name": "abnerzin",
+      "username": "abnerzin",
+      "blocked": false
+    },
+    {
+      "id": "9bca",
+      "name": "aa",
+      "username": "aa",
+      "blocked": true
+    }
+  ]
+}
